@@ -22,7 +22,6 @@ HWID Spoofer 💡
 - S/N 
 - SMBIOS 
 - Regedit 
-- License Windows 10
 - Serial Monitor
   
 ## FILE HIDE
