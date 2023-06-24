@@ -26,7 +26,7 @@ HWID Spoofer 💡
   
 ## FILE HIDE
 
-- If you can't find some files Follow the video below.
+- If you can't find some files Follow the video below
 
 
 https://user-images.githubusercontent.com/94861415/179345036-c7c2e3ef-0522-4056-aff7-fc0062fa24ca.mp4
